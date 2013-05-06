@@ -22,7 +22,7 @@ Ingest of an image in CONTINUUM computationally not elaborable by a PC.
 
 - Split the image in a matrix of Dirac Pulses.
 - Apply the Dirac Matrix to Image (on the Left of the image below)
-- ![Sampling Array of Dirac Pulses](https://raw.github.com/h4ergo/Inf_Bio/master/PRESENTAZIONI_BIO//images_GP/sampling_array.jpg)
+- ![Sampling Array of Dirac Pulses](https://raw.github.com/h4ergo/Info_Biomed/master/PRESENTAZIONI_BIO//images_GP/sampling_array.jpg)
 - FFT of every cell Indexed by the Dirac Pulse (a sample on the Right of the image).
 - We have an image decomposed by Fourier Transformations.
 
@@ -40,7 +40,7 @@ An image must be simplified for the computation.
 
 SO YOU HAVE AN IMAGE SIMPLIFIED AS THE IMAGE BELOW (on the RIGHT)
 
-![Sampling Array of Dirac Pulses](https://raw.github.com/h4ergo/Inf_Bio/master/PRESENTAZIONI_BIO//images_GP/simplify.jpg)
+![Sampling Array of Dirac Pulses](https://raw.github.com/h4ergo/Info_Biomed/master/PRESENTAZIONI_BIO//images_GP/simplify.jpg)
 
 - - -
 # SOLUTIONS:
@@ -52,7 +52,7 @@ Define a ROI (Region of Interest).
 - Cut the image and display only what we are looking for.
 - Display a 8-bit image of what we are interested in.
 
-![Sampling Array of Dirac Pulses](https://raw.github.com/h4ergo/Inf_Bio/master/PRESENTAZIONI_BIO//images_GP/thresholding.jpg)
+![Sampling Array of Dirac Pulses](https://raw.github.com/h4ergo/Info_Biomed/master/PRESENTAZIONI_BIO//images_GP/thresholding.jpg)
 
 - - -
 # How it works:
